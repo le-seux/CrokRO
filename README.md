@@ -1,3 +1,7 @@
+I made the design on figma (https://www.figma.com/file/f6cvmVrW5Nd92nE6SundyU/Untitled?node-id=0%3A1&t=FBSoFKbHGjkzWDY6-1).
+
+This website is for a Ragnarok Online private server called CrokRO.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
