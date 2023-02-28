@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../assets/Logo.svg'
+import logo from './assets/Logo.svg'
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai'
 
 const Navbar = () => {
